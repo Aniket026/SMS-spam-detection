@@ -1,5 +1,6 @@
-Spam Detection Using Naive Bayes Machine Learning Algorithms
-Project Overview
+# SMS and Email spam detection
+
+<h4>Project Overview : </h4><br>
 The spam detection project leverages machine learning techniques to identify spam in SMS and email messages. Using the Scikit-Learn library, three Naive Bayes classifiers—GaussianNB, MultinomialNB, and BernoulliNB—are implemented to detect and classify messages as spam or not spam.
 
 Objectives
